@@ -43,6 +43,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/arpit-neewaliya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/arpitneewaliya"><img src="https://img.icons8.com/?size=48&id=13963&format=png&color=000000"/></a>
-<a href = "https://x.com/arpitneewaliya"><img src="https://img.icons8.com/?size=48&id=L5LOu2UuSZnG&format=png&color=000000"/></a>
   
 </p>
