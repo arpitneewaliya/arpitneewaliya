@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJsYTV0ajJtNWQ1cWhqbHdyZDByMTJtNmVqeGR1NGYwMjhiOGtqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="coding">
+  <img width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZpZHA5dGN6Znc5cTVtNm5xb2Z4YWlnYWJmM2JzbWFnczZhbXo5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Arpit Neewaliya</h1>
