@@ -2,26 +2,26 @@
 <h3 align="center">A Full Stack Developer from India.</h3>
 
 ## Connect with me
-<a href="https://x.com/arpitneewaliya">
+<a href="https://x.com/arpitneewaliya" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter">
 </a>
-<a href="https://www.linkedin.com/in/arpit-neewaliya/">
+<a href="https://www.linkedin.com/in/arpit-neewaliya/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
-<a href="https://www.instagram.com/arpit.neewaliya">
+<a href="https://www.instagram.com/arpit.neewaliya" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram">
 </a>
-<a href="https://discord.com/">
+<a href="https://discord.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord">
 </a>
-<a href="https://dev.to/arpitneewaliya">
+<a href="https://dev.to/arpitneewaliya" target="_blank">
 <img src="https://skillicons.dev/icons?i=devto">
 </a>
-<a href="mailto:arpit.neewaliya@gmail.com">
+<a href="mailto:arpit.neewaliya@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
-## 💻 Programming Languages
+## Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +30,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,20 +60,8 @@
 ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<!--
-**arpitneewaliya/arpitneewaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=arpitneewaliya&show_icons=true&theme=github_dark)<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=arpitneewaliya&theme=github_dark)<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpitneewaliya&layout=compact&theme=github_dark)<br>
