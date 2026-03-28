@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I am Arpit Neewaliya</h1>
 <h3 align="center">A Full Stack Developer from India.</h3>
 
+![](https://komarev.com/ghpvc/?username=arpitneewaliya)
+
+
 ## Connect with me
 <a href="https://x.com/arpitneewaliya" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter">
