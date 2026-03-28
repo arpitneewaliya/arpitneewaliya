@@ -4,9 +4,7 @@
 
 **Full‑stack developer · India**
 
-<img src="./public/vinland.gif" width="600" alt="Banner">
-
-![](https://komarev.com/ghpvc/?username=arpitneewaliya)
+<img src="./public/vinland.gif" width="800" alt="Banner">
 
 </div>
 
