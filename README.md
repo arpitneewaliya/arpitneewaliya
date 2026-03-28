@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello there fellow programmers
 <!--
 **arpitneewaliya/arpitneewaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=arpitneewaliya&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=arpitneewaliya&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpitneewaliya&layout=compact&theme=github_dark)
