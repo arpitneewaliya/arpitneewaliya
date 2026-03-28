@@ -1,4 +1,25 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I am Arpit Neewaliya</h1>
+<h3 align="center">A Full Stack Developer from India.</h3>
+
+## Connect with me
+<a href="https://x.com/arpitneewaliya">
+<img src="https://skillicons.dev/icons?i=twitter">
+</a>
+<a href="https://www.linkedin.com/in/arpit-neewaliya/">
+<img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://www.instagram.com/arpit.neewaliya">
+<img src="https://skillicons.dev/icons?i=instagram">
+</a>
+<a href="https://discord.com/">
+<img src="https://skillicons.dev/icons?i=discord">
+</a>
+<a href="https://dev.to/arpitneewaliya">
+<img src="https://skillicons.dev/icons?i=devto">
+</a>
+<a href="mailto:arpit.neewaliya@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail">
+</a>
 
 ## 💻 Programming Languages
 
