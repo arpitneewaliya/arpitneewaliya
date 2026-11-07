@@ -1,46 +1,34 @@
 <div align="center">
-
-# Hi, I'm Arpit Neewaliya
-
-**Full‑stack developer · India**
-
-</div>
-
-
-## About Me
-
-Driven by curiosity, I craft robust full‑stack solutions and explore the frontiers of AI & cloud to empower tomorrow’s technology.
-
-| | |
-| --- | --- |
-| **Education** | Computer Science student at MAIT Delhi (2024 - 2028) |
-| **Current focus** | Data Structures and Algorithms, Cloud Architecture, Generative AI |
-| **Stack & interests** | NextJS, TypeScript, AI |
-| **What I’m working on** | Building Cerebral Earth |
-| **Open to** | Internships, Freelancing, Projects |
-| **Outside of code** | I like reading books, watching movies, listening to music and going to the gym. |
-
-**Quick facts**
-
-- I am a third year B.Tech. **Computer Science** student at MAIT Delhi.
-- Currently learning DSA and Generative AI.
-- I build full‑stack web applications.
-- I enjoy connecting with people who care about tech, AI, startups etc.
-
-
-
-## Connect
-
+  
+# Hi, I'm Arpit Neewaliya 👋
+ 
+**I build and ship full-stack products, from idea to deployed app.**
+ 
 <p>
-  <a href="https://x.com/arpitneewaliya" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)"></a>
-  <a href="https://www.linkedin.com/in/arpit-neewaliya/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/arpit.neewaliya" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
-  <a href="https://discord.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord — replace link with your profile"></a>
-  <a href="https://dev.to/arpitneewaliya" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=devto" alt="DEV"></a>
+  <a href="https://x.com/arpitneewaliya"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)"></a>
+  <a href="https://www.linkedin.com/in/arpit-neewaliya/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="https://dev.to/arpitneewaliya"><img src="https://skillicons.dev/icons?i=devto" alt="DEV"></a>
+  <a href="https://www.instagram.com/arpit.neewaliya"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
   <a href="mailto:arpit.neewaliya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
 </p>
 
+[**Resume**](REPLACE_WITH_RESUME_LINK) · [**Follow my builds on X**](https://x.com/arpitneewaliya)
+ 
+</div>
+
 ---
+ 
+## About
+ 
+I'm a CS student at MAIT Delhi who loves taking an idea from an empty repo to a live product. I build with Next.js and TypeScript, care about clean UI and solid backends, and share what I'm building on X.
+ 
+- 📚 **Learning:** Data Structures & Algorithms, cloud architecture, generative AI
+- 🤝 **Open to:** internships, freelance work and interesting projects
+- 🎧 **Outside of code:** books, movies, music and the gym
+
+
+---
+
 
 ## Tech stack
 
