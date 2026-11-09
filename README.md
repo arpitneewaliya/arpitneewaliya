@@ -49,15 +49,6 @@ I'm a CS student at MAIT Delhi who loves taking an idea from an empty repo to a 
 
 ---
 
-## GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=arpitneewaliya&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arpitneewaliya&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-</div>
-
----
- 
 <div align="center">
 
   **Want to build something together?** [Email me](mailto:arpit.neewaliya@gmail.com) or find me on [X](https://x.com/arpitneewaliya).
